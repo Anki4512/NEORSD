@@ -33,4 +33,4 @@ Cartography: Developing professional maps with legends, scale bars, and north ar
 QA-QC: Identifying discrepancies between field-verified data and central records.
 
 ### Final Project Map
-![Stormwater Billing Analysis](Stormwater_Billing_Report.jpg)
+[(Stormwater_Billing_Report.jpg)](https://github.com/Anki4512/NEORSD/blob/main/Stormwater_Billing_Report.png)
